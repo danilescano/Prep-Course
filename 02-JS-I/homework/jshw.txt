@@ -1,0 +1,10 @@
+﻿En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+-Variables: guardan un valor para poder ejecutarlas luego.
+-Strings: Hilo de caracteres; siempre delimitadas por comillas.
+-Funciones (argumentos, return): 
+	Funciones: agrupa códigos y los guarda para ejecutarlos luego; Callback Objects. 
+	Argumentos: agregar variable entre los () cuando se declara una función. 
+	Return: utilizada para que la función devuelva "algo" particular. 
+-Declaraciones if: condiciones. Devuelven true o false de acuerdo a la condicion estipulada- 
+-Valores booleanos (true, false): valores del sistema binario. Se utilizan para significar verdadero y falso, por eso sus valores posibles son true y false. 
