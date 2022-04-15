@@ -1,0 +1,4 @@
+for es utilizada para crear bucles; buscar dentro de un arreglo ciertos valores sobre los que se pretende operar. 
+&& es un operador que se utiliza para concatenar. 
+|| es un operador que indicaría un "o" establecer una opción,
+! es un operador que se utiliza para negar. Por ejemplo, utilizado antes de un "=" indica distinto. 
