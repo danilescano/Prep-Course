@@ -1,0 +1,9 @@
+Objetos: contenedor de datos; poseen mucha información sobre una cosa. Se instancias con {}.
+Propiedades: características; Keys de un objeto que pueden definirse y asignarles un valor. Los valores pueden ser cualquier 
+tipo de dato: booleanos, strings, números, funciones, arrays- 
+Métodos: son funciones gaurdadas en un objeto. 
+Bucles for... in: útiles para iterar en pares clave-valor. A diferencia de las matrices que tienen índices, en los Objetos
+se utiliza un tipo de bucle for in para recorrer el objeto.
+Notación de puntos: se puede llamar a una propiedad de un objeto como objeto.propiedad.
+Notación de corchetes: es como llamar a un elemento de una matriz pero llamando a una cadena o número o una variable
+que apunte a una cadena o número. Se debe envolver con comillas. user ["lovesJS"];
