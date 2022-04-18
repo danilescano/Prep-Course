@@ -1,0 +1,2 @@
+* `prototype`: las clases tienen una única forma de establecer un método una vez y dar acceso a cada objeto de esa clase a esos métodos; a través de un prototype.
+* _Constructors_ (de Clases): El método constructor es un metodo especial para crear e inicializar un objeto creado a partir de una clase. Las clases son útiles para crear muchos objetos que compartan algunas de las mismas propiedades y métodos
