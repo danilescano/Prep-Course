@@ -1,0 +1,28 @@
+body {
+    height: 600 px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/13/Celestes.png);
+    background-size: 10rem;
+}
+h1 {
+    color: green;
+}
+img {
+    width: 400px;
+}
+.divClass {
+    margin-left: auto;
+    margin-right: auto;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: aqua;
+    padding: 50px;
+    border: 5px solid black;  
+    margin-left: auto;
+    margin-right: auto;          
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
